@@ -1,0 +1,14 @@
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\bin\Debug\net7.0\DotNet-Learn.exe
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\bin\Debug\net7.0\DotNet-Learn.deps.json
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\bin\Debug\net7.0\DotNet-Learn.runtimeconfig.json
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\bin\Debug\net7.0\DotNet-Learn.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\bin\Debug\net7.0\DotNet-Learn.pdb
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.AssemblyInfoInputs.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.AssemblyInfo.cs
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.csproj.CoreCompileInputs.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\refint\DotNet-Learn.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.pdb
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\DotNet-Learn.genruntimeconfig.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\DotNet-Learn\obj\Debug\net7.0\ref\DotNet-Learn.dll
